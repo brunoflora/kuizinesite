@@ -7,7 +7,7 @@ Utilize os comandos abaio para clonar repositório e baixar todas as dependênci
 https://github.com/brunoflora/kuizinesite.git
 cd kuizinesite
 npm install
-bower install
+npm install -g bower
 ```
 Este projeto usa utiliza o [Grunt](http://gruntjs.com) `~0.4.5` para compilar o projeto, execute os comando abaixo para instala-lo:
 
