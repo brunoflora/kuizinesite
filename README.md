@@ -1,11 +1,11 @@
-## Preparando o projeto
+## Preparando o ambiente
 Este projeto necessita apenas do [Node JS](https://nodejs.org/)  `~0.12.0`.
 
 Utilize os comandos abaio para clonar repositório e baixar todas as dependências do projeto:
 
 ```shell
-git clone git@gitlab.com:renanoliveira/paraisopolis.git
-cd paraisopolis
+https://github.com/brunoflora/kuizinesite.git
+cd kuizinesite
 npm install
 bower install
 ```
